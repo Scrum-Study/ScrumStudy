@@ -13,8 +13,8 @@
 
 ## Typescript
 
-- overview 완료
-- functions 진행중
+- overview 학습 완료
+- functions 학습 진행중
 
 # 10/15
 
@@ -44,8 +44,35 @@
 
 ## Typescript
 
-- Classes and Interfaces 완료
+- Classes and Interfaces 학습 진행중
 
 ## Coding Test 연습
 
 - 프로그래머스 Lv.0 1문제
+
+# 10/17
+
+## Typescript
+
+- Classes and Interfaces 학습 완료
+
+# 10/18
+
+## Typescript
+
+- tsconfig 설정, declaration File 학습 완료
+
+  - typescript에서 javascript 모듈을 사용할 수 있게 하는 두 가지 방법
+
+    1. declaration File을 만들어준다. (tsconfig.json allowJs 설정 false )
+       ex) lib.dom.d.ts -> 자바스크립트 함수의 타입 정의들이 모여 있음
+
+    2. javascript 파일 함수에 JSDoc 주석을 달아준다 (tsconfig.json allowJs 설정 true 인데 타입 체크 하고 싶다면 사용)
+
+# 10/19
+
+## Typescript
+
+- Block Chain 클래스 구현
+
+- NestJs 구조 학습
