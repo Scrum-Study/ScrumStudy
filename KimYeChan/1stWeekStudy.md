@@ -2,8 +2,9 @@
 
 ## TypeScript
 
-- Typescript를 쓰는 이유
-- Type을 쓰는 두 가지 방법
+- overview 학습 진행중
+  - Typescript를 쓰는 이유
+  - Type을 쓰는 두 가지 방법
 
 # 10/14
 
@@ -69,10 +70,14 @@
 
     2. javascript 파일 함수에 JSDoc 주석을 달아준다 (tsconfig.json allowJs 설정 true 인데 타입 체크 하고 싶다면 사용)
 
+    ![image](https://user-images.githubusercontent.com/99064214/196608648-75cf7283-3770-4664-be98-34aaf18a1b14.png)
+
+
 # 10/19
 
 ## Typescript
 
 - Block Chain 클래스 구현
+  ![image](https://user-images.githubusercontent.com/99064214/196607146-634dcfbd-7c2a-4d38-bb80-4020290e0a5e.png)
 
-- NestJs 구조 학습
+- NestJs 구조 학습 진행중
