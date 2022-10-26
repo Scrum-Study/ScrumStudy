@@ -3,7 +3,7 @@
 abstract class User {
   constructor(
     //private은 인스턴스 밖에서 접근할 수 없고 다른 자식 클래스에서도 접근 불가
-
+    //protected는 인스턴스 밖에서는 접근할 수 없고 자식 클래스에서는 접근 가능
     protected firstName: string,
     public lastName: string,
     private nickname: string
