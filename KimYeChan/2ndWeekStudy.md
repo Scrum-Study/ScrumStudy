@@ -46,7 +46,7 @@
 
 ## NestJs
 
-- 노션 링크 : https://www.notion.so/NestJs-a1eaae22cffc4146b3d91d770e6df9b3
+- 노션 링크 : https://faceted-pickle-375.notion.site/NestJs-a1eaae22cffc4146b3d91d770e6df9b3
 
 - Architecture 학습
 
