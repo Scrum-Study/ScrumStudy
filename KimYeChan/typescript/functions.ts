@@ -7,11 +7,6 @@ type Add = (a: number, b: number) => number;
 // (a: number, b: number) => number 가 Call Signatures가 된다.
 const add: Add = (a, b) => a + b;
 
-type Config = {
-  path: string;
-  state: object;
-};
-
 // Polymorphism (다형성)
 // Overloading
 // 매개변수 개수는 같으나 타입은 서로 다른 경우의 오버로딩
