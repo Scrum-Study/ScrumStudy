@@ -41,9 +41,9 @@ alex.age = "10";
 
 // Tuple
 //배열의 타입 순서, 개수 모두 맞아야 오류가 생기지 않음
-let array: [number, string, boolean] = [1, "1", true];
-array = ["1", 1, true];
-array = [1, "1"];
+let arrays: [number, string, boolean] = [1, "1", true];
+arrays = ["1", 1, true];
+arrays = [1, "1"];
 
 // any
 // any 타입은 타입스크립트 보호장치를 해제 시킴

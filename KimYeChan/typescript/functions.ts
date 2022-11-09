@@ -10,6 +10,10 @@ const add: Add = (a, b) => a + b;
 // Polymorphism (다형성)
 // Overloading
 // 매개변수 개수는 같으나 타입은 서로 다른 경우의 오버로딩
+type Config = {
+  path: string;
+  state: string;
+};
 type Push = {
   (path: string): void;
   (config: Config): void;
