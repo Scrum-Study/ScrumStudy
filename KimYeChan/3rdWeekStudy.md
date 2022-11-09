@@ -2,7 +2,7 @@
 
 ## 쇼핑몰 관리자 페이지 테스트 코드 추가
 
-- coupon CRUD service 유닛 테스트 추가
+- Jest 공부 후 coupon CRUD service 유닛 테스트 추가
 
 # 10/30
 

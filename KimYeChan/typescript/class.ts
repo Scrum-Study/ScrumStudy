@@ -28,11 +28,6 @@ class Name extends User {
 }
 
 const user = new User("yechan", "kim", "chan");
-const player = new Player("yechan", "kim", "chan");
-
-player.firstName;
-player.lastName;
-player.getFullName();
 
 // 해시맵 만들기
 
@@ -53,7 +48,7 @@ class Dict {
       this.words[word.term] = word.def;
     }
   }
-  def(term: string) {
+  def(term: string): string {
     return this.words[term];
   }
   static hello() {
